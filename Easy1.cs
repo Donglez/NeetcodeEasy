@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Linq;
 
+//Given two strings s and t, return true if t is an anagram of s, false otherwise.
 public class Easy1
 {
     public static Boolean CheckAnagram(string s, string t)
